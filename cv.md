@@ -12,9 +12,23 @@
 
 ---
 ### About myself:
-I'm study at Empire State University, punish criminals and take a fun everywhere.  
----
 
-### Language:
+I'm study at Empire State University, punish criminals and take a fun everywhere.
+
+---
+### My code: 
+```
+//life motto
+if (sad() === true) {
+    sad().stop()
+    beAwesome()
+}
+```
+---
+### Skills
+* Eating junk food
+* Jumping throught the city all day long
+* Kicking ass to the bad guys
+### Languages:
 1. Native: English
 2. Secondary: Mandarin - B1
