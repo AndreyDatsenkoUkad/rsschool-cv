@@ -1,2 +1,2 @@
-# rsschool-cv
-https://AndreyDatsenkoUkad.github.io/rsschool-cv/cv
+# rsschool-cv-html
+https://AndreyDatsenkoUkad.github.io/rsschool-cv/
