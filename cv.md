@@ -10,4 +10,11 @@
 
 [video](https://youtu.be/cqGjhVJWtEg)
 
+---
+### About myself:
+I'm study at Empire State University, punish criminals and take a fun everywhere.  
+---
 
+### Language:
+1. Native: English
+2. Secondary: Mandarin - B1
